@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/GallaThejoSai__ME20B068/static/css/main.c86415f9.chunk.css",
+    "main.js": "/GallaThejoSai__ME20B068/static/js/main.65925bce.chunk.js",
+    "main.js.map": "/GallaThejoSai__ME20B068/static/js/main.65925bce.chunk.js.map",
+    "runtime-main.js": "/GallaThejoSai__ME20B068/static/js/runtime-main.7a4128a0.js",
+    "runtime-main.js.map": "/GallaThejoSai__ME20B068/static/js/runtime-main.7a4128a0.js.map",
+    "static/js/2.95826e35.chunk.js": "/GallaThejoSai__ME20B068/static/js/2.95826e35.chunk.js",
+    "static/js/2.95826e35.chunk.js.map": "/GallaThejoSai__ME20B068/static/js/2.95826e35.chunk.js.map",
+    "index.html": "/GallaThejoSai__ME20B068/index.html",
+    "static/css/main.c86415f9.chunk.css.map": "/GallaThejoSai__ME20B068/static/css/main.c86415f9.chunk.css.map",
+    "static/js/2.95826e35.chunk.js.LICENSE.txt": "/GallaThejoSai__ME20B068/static/js/2.95826e35.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a4128a0.js",
+    "static/js/2.95826e35.chunk.js",
+    "static/css/main.c86415f9.chunk.css",
+    "static/js/main.65925bce.chunk.js"
+  ]
+}
